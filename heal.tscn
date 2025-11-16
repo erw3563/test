@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://lngi4x75bdeq"]
+
+[node name="heal" type="Node2D"]
